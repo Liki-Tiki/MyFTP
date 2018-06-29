@@ -1,3 +1,3 @@
-MyFTP | EPITECH Project
+FTP | EPITECH Project
 
 metzin_o
